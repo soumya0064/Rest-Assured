@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="restAPI.RestAPITest"/>
+      <class name="restAPI.RestAPI"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
